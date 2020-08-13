@@ -1,3 +1,7 @@
+# -
+
+> Test project in order to test React integration with Stencil. The library `bicycle-stencil` should be a npm module (for now it's fine as local package)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
